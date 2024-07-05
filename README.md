@@ -1,4 +1,4 @@
-# Spring Boot Java Project
+# Spring Boot Java Project for Maven
 
 This repository contains a simple Java project utilizing Spring Boot and Maven. Follow the steps below to set up and test the project in your Linux environment.
 
